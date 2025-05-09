@@ -1,0 +1,3 @@
+/home/tsdhrm/lab/comgate/build/CMakeFiles/comgate.dir
+/home/tsdhrm/lab/comgate/build/CMakeFiles/edit_cache.dir
+/home/tsdhrm/lab/comgate/build/CMakeFiles/rebuild_cache.dir

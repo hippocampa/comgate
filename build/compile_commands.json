@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tsdhrm/lab/comgate/build",
+  "command": "/usr/bin/c++ -I/home/tsdhrm/lab/comgate/include -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -fstack-protector-strong -D_FORTIFY_SOURCE=2 -std=c++20 -o CMakeFiles/comgate.dir/src/main.cpp.o -c /home/tsdhrm/lab/comgate/src/main.cpp",
+  "file": "/home/tsdhrm/lab/comgate/src/main.cpp"
+}
+]

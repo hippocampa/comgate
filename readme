@@ -1,0 +1,15 @@
+
+=== [com]mand [gate] ===
+
+== about this project ==
+
+personal cpp20 project: command line interface (CLI) library.
+
+the project started on 2025-05-09. it does not even ready yet.
+i only have the barebone for now.
+
+== todos ==
+- [ ] add command and options/flags
+- [ ] add sub commmand and options/flags
+- [ ] maybe implement some macros?
+
