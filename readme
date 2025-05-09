@@ -11,5 +11,6 @@ i only have the barebone for now.
 == todos ==
 - [ ] add command and options/flags
 - [ ] add sub commmand and options/flags
+- [ ] add sub flags-combination for multiple flags for example: ls -la instead of ls -l -a
 - [ ] maybe implement some macros?
 
